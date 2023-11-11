@@ -1,0 +1,7 @@
+C:\Users\ramse\source\repos\Donguler\bin\Debug\Donguler.exe.config
+C:\Users\ramse\source\repos\Donguler\bin\Debug\Donguler.exe
+C:\Users\ramse\source\repos\Donguler\bin\Debug\Donguler.pdb
+C:\Users\ramse\source\repos\Donguler\obj\Debug\Donguler.csproj.AssemblyReference.cache
+C:\Users\ramse\source\repos\Donguler\obj\Debug\Donguler.csproj.CoreCompileInputs.cache
+C:\Users\ramse\source\repos\Donguler\obj\Debug\Donguler.exe
+C:\Users\ramse\source\repos\Donguler\obj\Debug\Donguler.pdb
